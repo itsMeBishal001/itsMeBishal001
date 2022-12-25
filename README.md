@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsMeBishal001
+- 👋 welcome to my Github
 - 👀 I’m interested in ...probleam solving
 - 🌱 I’m currently learning ...dsa
 - 💞️ I’m looking to collaborate on ...
