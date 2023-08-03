@@ -1,5 +1,3 @@
-Sure, here's a sample README file for your GitHub profile:
-
 # Bishal Datta - Frontend Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bishal-datta/)
@@ -14,18 +12,21 @@ Hello! 👋 I'm Bishal, a passionate frontend developer with a keen eye for crea
 
 ### Foodify - Food Ordering App (Ongoing)
 
+- Live Link: [Foodify Demo](https://a-food-ordering-app.netlify.app/)
 - Tech Stack: React, Redux, JavaScript, Parcel Bundler, Tailwind-CSS, react-router-dom, Formik, React Hooks
 - Description: An ongoing project to build a food ordering app, allowing users to browse restaurants, view food items, and add them to their cart.
 - Features: Shimmer UI, restaurant search, Login page with Formik, Error page, Contact page, About page, Nested routing, dynamic routing, API integration, lazy loading, custom hooks.
 
 ### YouTube Clone - Video Streaming App (Ongoing)
 
+- Live Link: [Video Streaming App Demo](https://vedio-strimming-spa-youtube-clone.netlify.app/)
 - Tech Stack: React, Redux, JavaScript, webpack Bundler, Tailwind-CSS, react-router-dom, React Hooks
 - Description: A YouTube clone with seamless video playback and access to trending videos.
 - Features: Video streaming, search, Error page, Nested routing, dynamic routing, real production API integration, custom hooks.
 
 ### Open Board (Completed - September 2022)
 
+- Live Link: [Open Board Demo](https://itsmebishal001.github.io/openBoard/)
 - Tech Stack: JavaScript, HTML, CSS
 - Description: A canvas-based webpage where users can draw, erase, and customize tool colors and line widths.
 
@@ -50,6 +51,4 @@ Hello! 👋 I'm Bishal, a passionate frontend developer with a keen eye for crea
 I'm always eager to collaborate on exciting frontend projects. Feel free to connect with me on LinkedIn or follow me on GitHub to stay updated on my latest projects and contributions.
 
 Let's build something beautiful together! 🚀
-
----
 
