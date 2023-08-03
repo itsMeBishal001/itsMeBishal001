@@ -1,8 +1,8 @@
 # Bishal Datta - Frontend Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bishal-datta/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-orange)](https://github.com/bishal-datta)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-brightgreen)](https://leetcode.com/bishal-datta/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bishaldatta/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-orange)](https://github.com/itsMeBishal001)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-brightgreen)](https://leetcode.com/dattabishal001/)
 
 ## Introduction
 
