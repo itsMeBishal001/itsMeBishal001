@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Hello! 👋 I'm Bishal, a passionate frontend developer with a keen eye for creating stunning user interfaces and seamless user experiences. My expertise lies in React.js, Redux, JavaScript, and TailwindCSS.
+Hello! 👋 I'm Bishal, a passionate frontend developer with a keen eye for creating stunning user interfaces and seamless user experiences. My expertise lies in React.js, Redux, JavaScript, and Tailwind CSS.
 
 ## Projects
 
