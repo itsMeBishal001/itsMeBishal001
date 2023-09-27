@@ -1,4 +1,4 @@
-# Bishal Datta - Frontend Developer
+# Bishal Datta - Software Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bishaldatta/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-orange)](https://github.com/itsMeBishal001)
