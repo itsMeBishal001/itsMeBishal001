@@ -4,7 +4,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-orange)](https://github.com/itsMeBishal001)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-brightgreen)](https://leetcode.com/dattabishal001/)
 ![](https://komarev.com/ghpvc/?username=itsMeBishal001&color=green)
-![Image Text](https://img.freepik.com/free-psd/3d-circle-with-linkedin-logo-isolated-transparent-background_125540-3729.jpg?w=996&t=st=1720079999~exp=1720080599~hmac=9b5657ccafbd59876d82dfd3e58def72290395335b9fae4d0a6962215a1a9a91)  [Connect on linkdin](https://www.linkedin.com/in/bishaldatta/)
 
 ## Introduction
 
