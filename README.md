@@ -14,12 +14,13 @@ I'm Bishal, a software developer passionate about solving problems through code.
 ### Foodify - Food Ordering App 
 
 - **Live Link**: [Foodify Demo](https://a-food-ordering-app.netlify.app/)
+- **Code Check**: [Foodify ](https://github.com/itsMeBishal001/Foodify)
 - **Tech Stack**: React, Redux, JavaScript, Parcel Bundler, Tailwind-CSS, react-router-dom, Formik, React Hooks
 - **Description**: Ongoing project aimed at building a food ordering app where users can browse restaurants, view food items, and add them to their cart. Implemented a mono repo architecture to manage the codebase for the mobile app, web app, and backend API, streamlining development and improving code maintainability.
 
 ### YouTube Clone - Video Streaming App 
 
-- **Live Link**: [Video Streaming App Demo](https://vedio-strimming-spa-youtube-clone.netlify.app/)
+- **Live Link**: [Video Streaming App Demo](https://vedio-strimming-spa-youtube-clone.netlify.app/)  
 - **Tech Stack**: React, Redux, JavaScript, webpack Bundler, Tailwind-CSS, react-router-dom, React Hooks
 - **Description**: A YouTube clone offering seamless video playback and access to trending videos.
 
