@@ -4,7 +4,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-orange)](https://github.com/itsMeBishal001)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-brightgreen)](https://leetcode.com/dattabishal001/)
 ![](https://komarev.com/ghpvc/?username=itsMeBishal001&color=green)
+## Support My Work
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-blue?style=for-the-badge&logo=github)](https://github.com/sponsors/itsMeBishal001)
 ## Introduction
 
 I'm Bishal, a software developer passionate about solving problems through code.  I specialize in building scalable web and mobile apps with React.js, Redux, and Tailwind CSS. Currently at Exicube App Solutions (OPC) Private Limited, tackling exciting client and internal projects.  Let's build something that makes a difference!
